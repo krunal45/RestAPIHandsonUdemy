@@ -1,0 +1,9 @@
+{    "fields": {
+  "project": {
+    "key": "RES"
+  },
+  "summary": "Issue for adding new Comment via Automation.",
+  "issuetype": {
+    "name": "Bug"
+  }
+}}
